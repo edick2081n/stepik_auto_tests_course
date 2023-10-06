@@ -1,0 +1,64 @@
+1696180610742	geckodriver	INFO	Listening on 127.0.0.1:52556
+1696180613829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eduard\\AppData\\Local\\Temp\\rust_mozprofilefLvl9U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696180615755	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696180616258	Marionette	INFO	Listening on port 52572
+WebDriver BiDi listening on ws://127.0.0.1:52557
+Read port: 52572
+1696180617533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52557/devtools/browser/db681e11-216d-4813-9308-a4ee2e14b60a
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1695720570, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1695720570, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK, line 168: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:168:17
+Bz@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:472:134
+Cz/<@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:472:111
+
+1696261808224	Marionette	INFO	Stopped listening on port 52572
+Dynamically enable window occlusion 1
+1696400752546	geckodriver	INFO	Listening on 127.0.0.1:64755
+1696400755579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eduard\\AppData\\Local\\Temp\\rust_mozprofilekl8aoy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696400756660	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696400756937	Marionette	INFO	Listening on port 64769
+WebDriver BiDi listening on ws://127.0.0.1:64756
+Read port: 64769
+1696400757462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64756/devtools/browser/474b97ba-6213-4c00-ad24-f4208dd30adf
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696400972122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696400972373	Marionette	INFO	Listening on port 65189
+WebDriver BiDi listening on ws://127.0.0.1:65180
+Read port: 65189
+1696400972999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65180/devtools/browser/77f741f4-931b-492f-b434-3e5b038d2350
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696401572260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696401572536	Marionette	INFO	Listening on port 49923
+WebDriver BiDi listening on ws://127.0.0.1:49893
+Read port: 49923
+1696401573021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49893/devtools/browser/50236657-297f-4a02-876f-3f03be7fe37d
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340847, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
