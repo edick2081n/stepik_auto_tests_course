@@ -62,3 +62,23 @@ JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1696340
 JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
 JavaScript error: https://cdn.stepik.net/static/frontend-build/chunk.55.cc84007eec2eca7abbc3.js?1696340847, line 815: Error: provide a function to get connection token
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1697561270595	geckodriver	INFO	Listening on 127.0.0.1:64389
+1697561273656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eduard\\AppData\\Local\\Temp\\rust_mozprofileq4AVml"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697561274066	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697561274168	Marionette	INFO	Listening on port 64404
+WebDriver BiDi listening on ws://127.0.0.1:64390
+Read port: 64404
+1697561274375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64390/devtools/browser/4be19586-88b1-420c-a889-7cb1882b7f46
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1697482761, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1697482761, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK, line 169: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:169:17
+wz@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:477:134
+xz/<@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:477:111
+
+1697563609603	Marionette	INFO	Stopped listening on port 64404
+Dynamically enable window occlusion 1

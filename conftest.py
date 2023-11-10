@@ -11,8 +11,8 @@ def browser():
     options = Options()
     options.add_argument("--ignore-certificate-errors")
     options.add_experimental_option("excludeSwitches", ["enable-logging"])
-    options.add_argument('headless')    # данные опции запускают тесты без визуального отображения открытия браузера
-    options.add_argument('window-size=1920x935') #данные опции запускают тесты без визуального отображения открытия браузера
+    # options.add_argument('headless')    # данные опции запускают тесты без визуального отображения открытия браузера
+    # options.add_argument('window-size=1920x935') #данные опции запускают тесты без визуального отображения открытия браузера
     browser = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
    # browser.implicitly_wait(15)
     #browser = webdriver.Chrome()
