@@ -1,3 +1,0 @@
-# test_guest_cant_see_success_message_after_adding_product_to_basket:
-# test_guest_cant_see_success_message:
-# test_message_disappeared_after_adding_product_to_basket:

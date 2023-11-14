@@ -82,3 +82,30 @@ xz/<@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:477:111
 
 1697563609603	Marionette	INFO	Stopped listening on port 64404
 Dynamically enable window occlusion 1
+1699810794841	geckodriver	INFO	Listening on 127.0.0.1:53406
+1699810797858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eduard\\AppData\\Local\\Temp\\rust_mozprofileL5Pp2V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699810798239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699810798334	Marionette	INFO	Listening on port 53418
+WebDriver BiDi listening on ws://127.0.0.1:53407
+Read port: 53418
+1699810798515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53407/devtools/browser/67c77f47-df7e-47b3-8d27-d143951b6c65
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1698998958, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1698998958, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK, line 169: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:169:17
+jA@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:496:134
+kA/<@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:496:111
+
+1699810827434	Marionette	INFO	Stopped listening on port 53418
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1699810827560	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
